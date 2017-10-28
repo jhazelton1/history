@@ -31,3 +31,10 @@ body {
   color: white;
   padding: 60px;
 }
+
+.gnb_container{
+    margin:20px auto;
+}
+.gnb_container .gnb_item h3{
+    margin-top:0;
+}
