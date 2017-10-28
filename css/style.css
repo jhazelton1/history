@@ -1,0 +1,33 @@
+@import url("components/card.css");
+
+body {
+  background-color: #393E46;
+}
+
+.banner {
+  text-align: center;
+  background-image: url("../images/london.png");
+  background-size: cover;
+  padding: 300px;
+  position: relative;
+}
+
+.banner h2 {
+  font-size: 35px;
+}
+
+.banner p {
+
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+}
+
+.footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 60px;
+}

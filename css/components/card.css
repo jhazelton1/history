@@ -1,0 +1,35 @@
+.card {
+  height: 200px;
+  border-radius: 30px;
+  text-align: center;
+  background-color: #EEEEEE;
+  position: relative;
+}
+
+.card h3 {
+  font-size: 20px;
+}
+
+.card img {
+  width: 50%;
+}
+
+.card :hover {
+  background-color: #222831
+}
+
+.card-windsor {
+
+}
+
+.card-hanover {
+
+}
+
+.card-stuart {
+
+}
+
+.card-tudor {
+
+}
